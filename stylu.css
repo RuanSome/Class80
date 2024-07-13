@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#bt{
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+#btt{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+#displayname{
+    border: 5px solid red;
+    background-color: yellow;
+    border-radius: 15px;
+    width: 30%;
+    margin: auto;
+    padding: 5px;
+}
+#displayname1{
+    border: 5px solid rgba(0, 115, 255, 0.538);
+    background-color: green;
+    border-radius: 15px;
+    width: 30%;
+    margin: auto;
+    padding: 5px;
+}
+input{
+    margin: 10px;
+}
